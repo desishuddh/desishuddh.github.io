@@ -49,16 +49,16 @@
     <div class="product-card">
       <img src="https://via.placeholder.com/400x400" alt="Traditional Thekua">
       <div>Traditional Thekua</div>
-      <div class="old-price">₹599.00</div>
-      <div class="price">₹299.00</div>
+      <div class="old-price">₹699.00</div>
+      <div class="price">₹399.00</div>
       <button>कार्ट में जोड़ें</button>
     </div>
 
     <div class="product-card">
-      <img src="https://via.placeholder.com/400x400" alt="Jaggery Thekua">
-      <div>Jaggery Thekua</div>
-      <div class="old-price">₹599.00</div>
-      <div class="price">₹299.00</div>
+      <img src="https://via.placeholder.com/400x400" alt=Dasi Thekua">
+      <div>Dasi Thekua</div>
+      <div class="old-price">₹699.00</div>
+      <div class="price">₹399.00</div>
       <button>कार्ट में जोड़ें</button>
     </div>
   </div>
