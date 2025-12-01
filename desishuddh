@@ -1,0 +1,33 @@
+index.html
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+<meta charset="UTF-8">
+<title>Desi Shuddh Store</title>
+<style>
+body { font-family: Arial; text-align: center; background: #f2fff2; padding: 40px; }
+h1 { color: #0a8f20; }
+p { font-size: 18px; }
+button {
+background: green; 
+color: white; 
+padding: 15px 25px; 
+font-size: 18px;
+border: none;
+border-radius: 8px;
+cursor: pointer;
+}
+button:hover { background: #056b17; }
+</style>
+</head>
+<body>
+
+<h1>💚 स्वागत है Desi Shuddh में 💚</h1>
+<p>100% नेचुरल, शुद्ध और देसी प्रोडक्ट्स 😍</p>
+
+<button onclick="window.location.href='https://wa.me/91XXXXXXXXXX'">
+📦 WhatsApp पर Order करें
+</button>
+
+</body>
+</html>
